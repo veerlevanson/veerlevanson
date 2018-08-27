@@ -1,0 +1,61 @@
+---
+title: Zebras continued - My first data collection project
+author: Veerle van Son
+date: '2018-08-01'
+slug: zebras-continued
+language:
+  - English
+categories: 
+  - theme
+tags:
+  - First post
+  - Introduction
+  - Animals
+lastmod: '2018-07-18T22:27:41+02:00'
+keywords: []
+description: ''
+comment: no
+toc: no
+autoCollapseToc: no
+contentCopyright: no
+reward: no
+mathjax: no
+---
+
+
+<center>
+![Animals seen on safari in Amboseli National Park, Kenya](/post/2018-08-01-zebras-cont-d_files/animals_plot.jpg)
+</center>
+
+The year was 1996. The month was January. Bill Clinton was president of the United States. The movie Toy Story had just come out a couple of months before. We all danced the macarena. I was a pretty typical eight-year-old girl who liked computers, dressing up, singing, painting my nails, and the Spice Girls. My family is originally from the Netherlands, but from 1994 to 1999 we lived in Kenya, where my parents worked. My siblings and I went to a Dutch primary school in Nairobi.
+
+Over Christmas and new year's, school was closed for three weeks. At the start of the new year, we went for a safari in the [Amboseli National Park](http://www.amboselinationalpark.co.ke/). Amboseli is in the south-west of Kenya, close to the border with Tanzania. Africa's tallest mountain, Mount Kilimanjaro in Tanzania, is not too far away and can be seen from the Amboseli National Park. Among others, the park is famous for its' elephants.   
+
+Even as an eight-year-old, I liked to record and capture information (store information / vastleggen). I decided to make a list of all the animals we saw during our safari. As the oldest child, I was allowed to sit in the front of the car. This gave me a great view for the three day long data collection field work session that followed. To this day, the list is preserved in my photo album. Here is the list of the animals we saw:   
+
+<center>
+![List of animals seen on safari in Amboseli, Kenya (1996)](/post/2018-08-01-zebras-cont-d_files/list_of_animals.jpeg){width=60% height=60%}
+<br/>*The original list of animals seen on safari*
+</center>
+
+If you're wondering about the handwriting: this was written in a moving car, while driving on a dirt road. The animal names on the list are in Dutch. And of course, if there are a lot of zebras and you run out of space on the zebra line, the only logical thing to do is starting a new line named "zebras (continued)" :D  
+
+<center>
+![Zebras and wildebeests continued](/post/2018-08-01-zebras-cont-d_files/continued.jpeg){width=50% height=50%}
+<br/>*Zebras and wildebeests continued*
+</center>
+
+From this list of animals, I created the graph at the start of this post, in the style that would have appealed to my eight-year-old self.
+For good measure, go back to assess intra-observer consistency. In a future blog post, I might compare official animal counts in Amboseli to my own data. 
+
+As this is the first post on my data blog, it seemed fitting to blog about my first data collection project. Data is all around us, and even eight-year-olds can collect interesting datasets!
+
+Introducing my blog
+----------------------
+
+Twenty-two years after data collection in Amboseli, I am a Data Scientist living in Den Bosch, the Netherlands. I am passionate about data science, and have worked in both academia and industry. I also love data visualisation. I have a master's degree in Neuroscience. 
+
+Why this blog? For me, the most interesting aspect of data science is that data is all around us. More and more data sources are publicly available (government). But also collect your own data. For example whatsapp conversations, etc etc. 
+
+
+

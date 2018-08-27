@@ -1,0 +1,104 @@
+/*.header {
+  position: fixed;
+  top: 0;
+  width:100%;
+  display:block;
+  background-color:#aaee99ff; 
+}*/
+
+body{
+  font-family:Source Sans Pro,Roboto,Helvetica Neue,sans-serif;
+}
+
+h1 {
+  font-family: Open Sans,Noto Sans,Roboto,sans-serif !important;
+  font-size:1.3em;
+}
+
+h2 {
+  font-family: Open Sans,Noto Sans,Roboto,sans-serif !important;
+  font-size:1.2em;
+}
+
+
+.logo {
+  font-family: Open Sans,Montserrat,sans-serif !important;
+  font-weight: 200;
+  font-size: 60;
+}
+
+/*.post .post-header .post-link {
+  font-family: Open Sans,Noto Sans,Roboto,sans-serif !important;
+  font-size: 1.3em;
+}
+*/
+
+.post .post-header .post-title {
+  font-family: Open Sans,Noto Sans,Roboto,sans-serif !important;
+  font-size: 1.7em;
+}
+
+
+
+
+.menu {
+  font-family: Open Sans,Noto Sans,Roboto,sans-serif !important;
+}
+
+.mobile-menu{
+  background-color:white;
+}
+
+.mobile-menu .mobile-menu-list a {
+  font-family: Open Sans,Noto Sans,Roboto,sans-serif !important;
+}
+
+.mobile-navbar .mobile-header-logo .logo {
+  font-size: 25px;
+}
+
+.tag-cloud {
+  font-family: Open Sans,Noto Sans,Roboto,sans-serif !important;
+  font-weight: bold;
+}
+
+.content-wrapper {
+  /*background-image: url("/kiwis_transparent.png");
+    background-color: #f3ffc9;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='121' height='121' viewBox='0 0 120 120'%3E%3Cpolygon fill='%23aaee99' fill-opacity='0.15' points='120 120 60 120 90 90 120 60 120 0 120 0 60 60 0 0 0 60 30 90 60 120 120 120 '/%3E%3C/svg%3E");
+    background-size: auto auto;*/
+    
+    background-color: #f9feff;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cpolygon fill='%23eafdff' points='120 120 60 120 90 90 120 60 120 0 120 0 60 60 0 0 0 60 30 90 60 120 120 120 '/%3E%3C/svg%3E");
+background-size: auto auto;
+}
+
+.post {
+  line-height: 1.4;
+}
+
+.post .post-footer .post-nav .next, .post .post-footer .post-nav .prev {
+  font-family:Open Sans,Noto Sans,Roboto,sans-serif !important;
+  
+}
+
+.post .post-footer {
+  font-family:Open Sans,Noto Sans,Roboto,sans-serif !important;
+  
+}
+
+
+.read-more .read-more-link {
+  font-family:Open Sans,Noto Sans,Roboto,sans-serif !important;
+}
+
+.footer .copyright {
+  font-family:Open Sans,Noto Sans,Roboto,sans-serif !important;
+}
+
+
+/*.tag-cloud .tag-cloud-title {
+  color: black;
+  border-bottom: 2px solid black;
+}*/
+
