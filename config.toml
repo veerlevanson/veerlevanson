@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://surroundedbydata.netlify.com/"
 title = "Surrounded by Data - Veerle's data blog"
 enableRobotsTXT = true
 enableEmoji = true
